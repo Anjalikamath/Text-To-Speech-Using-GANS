@@ -2,6 +2,8 @@
 
 This is the code for the natual language generating Text-to-Speech model built upon Generative Adversarial Networks. It employs content-stle disentanglement and synthesizes high fidelity audio with the correct verbal content and the desired auditory style and tone. 
 
+This model was developed when I was working as a Research Assistant at the Center for Cloud Computing and Big Data. 
+
 ## Preprocess
 ```bash
 python preprocess/make_dataset_vctk.py vctk.h5
